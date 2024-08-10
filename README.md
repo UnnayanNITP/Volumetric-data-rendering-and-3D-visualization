@@ -24,7 +24,7 @@ Graphics card memory::6GB or more.
 ### **How to run the given code.**
 1. install different packages used in the code.
 2. Create python enviroment to run by install jupyter notebook 
-In case find diffulties try to visit this link [Jupyterintall](https://test-jupyter.readthedocs.io/en/latest/install.html).
+In case find diffulties try to visit this link [Jupyterinstall](https://test-jupyter.readthedocs.io/en/latest/install.html).
 3. Store the mecanix.raw, ipyTransferFunction.py, minor_projectcode.ipynb and mecanix.txt dataset and files in Folder.
 4. Open the minor_projectcode.ipynb and set the dataset path.
 5. Run it.
