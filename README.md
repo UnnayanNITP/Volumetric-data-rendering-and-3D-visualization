@@ -1,6 +1,6 @@
 ## Project Demonstration
 
-[![Watch the video](https://github.com/UnnayanNITP/Volumetric-data-rendering-and-3D-visualization/issues/1#issue-2432379556)](https://drive.google.com/file/d/1Dg70id0a68y8BdqafvAKe9WqOz9g9CtO/view?usp=sharing)
+[![Watch the video]](https://drive.google.com/file/d/1Dg70id0a68y8BdqafvAKe9WqOz9g9CtO/view?usp=sharing)
 
 
 
